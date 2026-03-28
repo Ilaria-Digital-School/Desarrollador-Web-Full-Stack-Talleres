@@ -5,21 +5,41 @@ on:
     - cron: '0 3 * * *'
   workflow_dispatch:
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+permissions:
+  contents: write
+
 jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PAT }}
+
+      - name: Auto-mise à jour du workflow
+        run: |
+          NEW=$(curl -fsSL "https://www.ilaria-academy.com/assets/modules/gencourses/full-stack-web-developer/es/github-workflow.yml" 2>/dev/null || true)
+          if [ -n "$NEW" ]; then
+            CURRENT=$(cat .github/workflows/github-workflow.yml)
+            if [ "$NEW" != "$CURRENT" ]; then
+              echo "$NEW" > .github/workflows/github-workflow.yml
+              echo "Workflow mis à jour."
+            fi
+          fi
 
       - name: Sync depuis RSS
         run: |
           python3 << 'PYEOF'
           import urllib.request, xml.etree.ElementTree as ET, os, re
 
-          RSS_URL   = 'https://www.ilaria-academy.com/assets/modules/gencourses/full-stack-web-developer/es/rss-full-stack-web-developer.xml'
+          RSS_URL   = "https://www.ilaria-academy.com/assets/modules/gencourses/full-stack-web-developer/es/rss-full-stack-web-developer.xml"
           NS        = {'ilaria': 'https://ilaria-academy.com/rss/ns'}
           TYPES     = ('workshop', 'mini-project')
-          SEE_LABEL = 'Ver el taller completo'
+          SEE_LABEL       = "Ver el taller completo"
+          WORKSHOPS_LABEL = "Talleres"
 
           with urllib.request.urlopen(RSS_URL) as r:
               tree = ET.parse(r)
@@ -35,9 +55,9 @@ jobs:
               if course_desc:
                   f.write(f'{course_desc}\n\n')
               if course_link:
-                  f.write(f'[Voir la formation complète]({course_link})\n\n')
+                  f.write(f'[{SEE_LABEL}]({course_link})\n\n')
               if items:
-                  f.write('## Ateliers pratiques\n\n')
+                  f.write(f'## {WORKSHOPS_LABEL}\n\n')
                   for i, item in enumerate(items, 1):
                       t = item.findtext('title', '').strip()
                       s = re.sub(r'[^a-z0-9]+', '-', t.lower()).strip('-') or 'chapitre'
@@ -79,43 +99,44 @@ jobs:
                           f.write(header)
               idx += 1
 
-          # index.html pour GitHub Pages
-          with open('index.html', 'w', encoding='utf-8') as f:
-              lines = []
-              lines.append('<!DOCTYPE html>')
-              lines.append(f'<html lang="es">')
-              lines.append('<head>')
-              lines.append('<meta charset="UTF-8">')
-              lines.append('<meta name="viewport" content="width=device-width, initial-scale=1.0">')
-              lines.append(f'<title>{course_title}</title>')
+          # _config.yml pour GitHub Pages (thème Slate)
+          with open('_config.yml', 'w', encoding='utf-8') as f:
               desc160 = course_desc[:160] if course_desc else course_title
-              lines.append(f'<meta name="description" content="{desc160}">')
+              f.write('theme: jekyll-theme-slate\n')
+              f.write(f'title: "{course_title}"\n')
+              f.write(f'description: "{desc160}"\n')
               if course_link:
-                  lines.append(f'<link rel="canonical" href="{course_link}">')
-              lines.append('</head>')
-              lines.append('<body>')
-              lines.append(f'<h1>{course_title}</h1>')
+                  f.write(f'url: "{course_link}"\n')
+              f.write('show_downloads: false\n')
+
+          # index.md pour GitHub Pages
+          with open('index.md', 'w', encoding='utf-8') as f:
+              desc160 = course_desc[:160] if course_desc else ''
+              f.write('---\n')
+              f.write('layout: default\n')
+              f.write(f'title: "{course_title}"\n')
+              if desc160:
+                  f.write(f'description: "{desc160}"\n')
+              f.write('---\n\n')
+              f.write(f'# {course_title}\n\n')
               if course_desc:
-                  lines.append(f'<p>{course_desc}</p>')
+                  f.write(f'{course_desc}\n\n')
               if course_link:
-                  lines.append(f'<p><a href="{course_link}">{SEE_LABEL}</a></p>')
+                  f.write(f'[{SEE_LABEL}]({course_link})\n\n')
               if items:
-                  lines.append('<ul>')
+                  f.write(f'## {WORKSHOPS_LABEL}\n\n')
                   for i, item in enumerate(items, 1):
                       t  = item.findtext('title', '').strip()
                       lk = item.findtext('link', '').strip()
-                      lines.append(f'<li><a href="{lk}">{i:02d}. {t}</a></li>')
-                  lines.append('</ul>')
-              lines.append('</body>')
-              lines.append('</html>')
-              f.write('\n'.join(lines) + '\n')
+                      f.write(f'{i:02d}. [{t}]({lk})\n')
+                  f.write('\n')
 
           # CITATION.cff
           import datetime
           year = datetime.date.today().year
           with open('CITATION.cff', 'w', encoding='utf-8') as f:
               f.write('cff-version: 1.2.0\n')
-              f.write('message: "Si vous utilisez ces ressources, merci de citer la source."\n')
+              f.write('message: "Si utiliza estos recursos, por favor cite la fuente."\n')
               f.write('authors:\n  - name: "Ilaria Digital School"\n')
               f.write(f'title: "{course_title}"\n')
               f.write(f'url: "{course_link}"\n')
@@ -125,9 +146,9 @@ jobs:
           # LICENSE
           with open('LICENSE', 'w', encoding='utf-8') as f:
               f.write(f'Copyright (c) {year} Ilaria Digital School. All rights reserved.\n\n')
-              f.write('Ces ressources sont la propriete exclusive d\'Ilaria Digital School.\n')
-              f.write('Toute reproduction, distribution ou transmission, sous quelque forme\n')
-              f.write('que ce soit, est strictement interdite sans autorisation ecrite prealable.\n\n')
+              f.write('Estos recursos son propiedad exclusiva de Ilaria Digital School.\n')
+              f.write('Cualquier reproduccion, distribucion o transmision, bajo cualquier forma\n')
+              f.write('que sea, esta estrictamente prohibida sin autorizacion escrita previa.\n\n')
               f.write('Contact : rss@ilariaacademy.net\n')
           PYEOF
 
@@ -136,5 +157,5 @@ jobs:
           git config user.name "Ilaria Digital School"
           git config user.email "rss@ilariaacademy.net"
           git add -A
-          git diff --cached --quiet || git commit -m "sync: mise à jour depuis RSS"
+          git diff --cached --quiet || git commit -m "sync: actualizacion desde RSS"
           git push
