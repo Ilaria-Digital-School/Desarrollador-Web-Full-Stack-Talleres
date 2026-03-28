@@ -1,0 +1,2 @@
+<?php
+// Variación: adapt.gitignore para un script de Python

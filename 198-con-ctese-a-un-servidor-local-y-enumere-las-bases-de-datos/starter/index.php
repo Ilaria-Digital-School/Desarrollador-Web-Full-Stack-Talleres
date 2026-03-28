@@ -1,0 +1,2 @@
+<?php
+// Conéctese a un servidor local y enumere las bases de datos

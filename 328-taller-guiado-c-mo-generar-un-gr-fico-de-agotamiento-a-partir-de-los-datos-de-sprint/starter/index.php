@@ -1,0 +1,2 @@
+<?php
+// Taller guiado: Cómo generar un gráfico de agotamiento a partir de los datos de Sprint

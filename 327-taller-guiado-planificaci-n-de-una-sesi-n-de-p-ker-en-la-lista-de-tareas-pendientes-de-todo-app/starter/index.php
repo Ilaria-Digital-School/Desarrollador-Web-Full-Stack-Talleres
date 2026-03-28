@@ -1,0 +1,2 @@
+<?php
+// Taller guiado: Planificación de una sesión de póker en la lista de tareas pendientes de Todo App

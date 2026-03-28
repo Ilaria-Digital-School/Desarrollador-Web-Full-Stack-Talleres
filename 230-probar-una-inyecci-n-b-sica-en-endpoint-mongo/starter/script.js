@@ -1,0 +1,1 @@
+// Probar una inyección básica en Endpoint Mongo

@@ -1,0 +1,2 @@
+<?php
+// Taller: lista de verificación de refactorización y mejores prácticas

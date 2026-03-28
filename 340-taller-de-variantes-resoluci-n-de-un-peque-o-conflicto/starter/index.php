@@ -1,0 +1,2 @@
+<?php
+// Taller de variantes: resolución de un pequeño conflicto

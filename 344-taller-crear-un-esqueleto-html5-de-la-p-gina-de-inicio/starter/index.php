@@ -1,0 +1,2 @@
+<?php
+// Taller: crear un esqueleto HTML5 de la página de inicio

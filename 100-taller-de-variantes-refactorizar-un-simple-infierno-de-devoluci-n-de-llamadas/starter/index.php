@@ -1,0 +1,2 @@
+<?php
+// Taller de variantes: refactorizar un simple infierno de devolución de llamadas

@@ -1,0 +1,2 @@
+<?php
+// Taller guiado: instalación de Python e inicio de REPL

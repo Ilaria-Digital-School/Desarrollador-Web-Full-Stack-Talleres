@@ -1,0 +1,2 @@
+<?php
+// Taller guiado: middleware de medición del tiempo

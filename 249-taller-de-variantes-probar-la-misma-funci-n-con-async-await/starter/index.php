@@ -1,0 +1,2 @@
+<?php
+// Taller de variantes: probar la misma función con async/await

@@ -1,0 +1,2 @@
+<?php
+// Taller guiado: variación del temporizador frente a E/S ficticias

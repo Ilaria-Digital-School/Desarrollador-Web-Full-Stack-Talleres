@@ -1,0 +1,2 @@
+<?php
+// Taller guiado: su primer servidor Express «Hello World»

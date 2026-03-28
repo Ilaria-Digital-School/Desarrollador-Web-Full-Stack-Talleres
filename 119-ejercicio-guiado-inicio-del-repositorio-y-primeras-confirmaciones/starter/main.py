@@ -1,0 +1,1 @@
+# Ejercicio guiado: inicio del repositorio y primeras confirmaciones

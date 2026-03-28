@@ -1,0 +1,1 @@
+// Taller: agregue la lista de habilidades en el currículum

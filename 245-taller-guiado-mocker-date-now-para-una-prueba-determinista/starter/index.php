@@ -1,0 +1,2 @@
+<?php
+// Taller guiado: mocker Date.now () para una prueba determinista

@@ -1,0 +1,2 @@
+<?php
+// Taller: pruebas unitarias de capa empresarial con simulacros

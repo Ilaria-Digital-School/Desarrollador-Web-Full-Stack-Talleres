@@ -1,0 +1,2 @@
+<?php
+// Miniproyecto intermedio: página de inicio de portafolio responsiva

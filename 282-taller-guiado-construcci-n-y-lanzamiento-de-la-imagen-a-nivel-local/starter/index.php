@@ -1,0 +1,2 @@
+<?php
+// Taller guiado: construcción y lanzamiento de la imagen a nivel local

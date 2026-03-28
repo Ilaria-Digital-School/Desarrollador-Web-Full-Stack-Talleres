@@ -1,0 +1,2 @@
+<?php
+// Aplicar el patrón de cubos a los registros

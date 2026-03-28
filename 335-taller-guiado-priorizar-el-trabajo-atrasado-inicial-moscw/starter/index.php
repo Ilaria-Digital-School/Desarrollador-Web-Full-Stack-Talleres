@@ -1,0 +1,2 @@
+<?php
+// Taller guiado: priorizar el trabajo atrasado inicial (MoScW)

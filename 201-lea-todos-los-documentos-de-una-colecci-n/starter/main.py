@@ -1,0 +1,1 @@
+# Lea todos los documentos de una colección

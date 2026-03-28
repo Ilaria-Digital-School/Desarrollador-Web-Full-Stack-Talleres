@@ -1,0 +1,1 @@
+// Optimización de una consulta con un índice compuesto

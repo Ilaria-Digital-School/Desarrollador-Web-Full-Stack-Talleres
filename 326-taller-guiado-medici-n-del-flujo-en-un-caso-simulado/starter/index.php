@@ -1,0 +1,2 @@
+<?php
+// Taller guiado: medición del flujo en un caso simulado

@@ -1,0 +1,2 @@
+<?php
+// Taller: creación de una mini-API en memoria (GET /items)

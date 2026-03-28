@@ -1,0 +1,2 @@
+<?php
+// Conecta un repositorio local a GitHub y envía confirmaciones

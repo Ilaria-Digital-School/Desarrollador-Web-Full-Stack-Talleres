@@ -1,0 +1,2 @@
+<?php
+// Taller guiado: reescribir una cadena de Promise en async/await

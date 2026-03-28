@@ -1,0 +1,2 @@
+<?php
+// Taller: primer script CLI de Hello World

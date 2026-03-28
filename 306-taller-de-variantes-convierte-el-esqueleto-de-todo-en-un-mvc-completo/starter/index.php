@@ -1,0 +1,2 @@
+<?php
+// Taller de variantes: convierte el esqueleto de Todo en un MVC completo

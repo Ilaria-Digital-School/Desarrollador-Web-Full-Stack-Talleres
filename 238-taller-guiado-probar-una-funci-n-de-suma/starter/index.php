@@ -1,0 +1,2 @@
+<?php
+// Taller guiado: probar una función de suma

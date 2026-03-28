@@ -1,0 +1,2 @@
+<?php
+// Miniproyecto: juego «Adivina el número»: fetch mock + integración async/await

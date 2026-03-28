@@ -1,0 +1,2 @@
+<?php
+// Taller guiado: refactorizar una página existente primero desde dispositivos móviles

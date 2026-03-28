@@ -1,0 +1,2 @@
+<?php
+// Laboratorio: BeforeAll/AfterAll para iniciar y eliminar la base de datos en memoria

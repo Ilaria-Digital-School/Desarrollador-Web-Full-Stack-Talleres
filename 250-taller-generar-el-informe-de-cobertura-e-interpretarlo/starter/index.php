@@ -1,0 +1,2 @@
+<?php
+// Taller: generar el informe de cobertura e interpretarlo

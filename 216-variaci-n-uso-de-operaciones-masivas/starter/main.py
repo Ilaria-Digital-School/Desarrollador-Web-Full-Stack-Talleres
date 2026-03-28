@@ -1,0 +1,1 @@
+# Variación: uso de operaciones masivas

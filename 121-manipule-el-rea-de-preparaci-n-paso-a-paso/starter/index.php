@@ -1,0 +1,2 @@
+<?php
+// Manipule el área de preparación paso a paso

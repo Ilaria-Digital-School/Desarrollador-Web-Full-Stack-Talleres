@@ -1,0 +1,2 @@
+<?php
+// Taller de variantes: se ejecuta en ubuntu-latest

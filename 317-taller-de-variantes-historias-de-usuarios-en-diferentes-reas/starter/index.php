@@ -1,0 +1,2 @@
+<?php
+// Taller de variantes: historias de usuarios en diferentes áreas

@@ -1,0 +1,2 @@
+<?php
+// Taller: transformación del pseudocódigo en funciones empresariales

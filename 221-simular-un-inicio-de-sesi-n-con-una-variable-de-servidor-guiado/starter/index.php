@@ -1,0 +1,2 @@
+<?php
+// Simular un inicio de sesión con una variable de servidor (guiado)

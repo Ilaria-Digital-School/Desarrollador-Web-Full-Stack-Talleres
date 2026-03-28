@@ -1,0 +1,2 @@
+<?php
+// Verificar el lado de un servidor JWT

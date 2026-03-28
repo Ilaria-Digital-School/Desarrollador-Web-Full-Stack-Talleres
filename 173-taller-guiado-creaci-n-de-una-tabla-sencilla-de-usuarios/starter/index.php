@@ -1,0 +1,2 @@
+<?php
+// Taller guiado: Creación de una tabla sencilla de «usuarios»

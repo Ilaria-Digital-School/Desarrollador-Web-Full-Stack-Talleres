@@ -1,0 +1,2 @@
+<?php
+// Taller guiado: Listar los pedidos con la información del usuario

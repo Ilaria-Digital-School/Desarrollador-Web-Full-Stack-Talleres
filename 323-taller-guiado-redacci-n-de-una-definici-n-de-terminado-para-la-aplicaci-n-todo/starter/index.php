@@ -1,0 +1,2 @@
+<?php
+// Taller guiado: redacción de una definición de terminado para la aplicación Todo

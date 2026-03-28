@@ -1,0 +1,2 @@
+<?php
+// Taller de variantes: cambiar el puerto y las respuestas de JSON

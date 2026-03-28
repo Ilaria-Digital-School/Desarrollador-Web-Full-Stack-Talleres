@@ -1,0 +1,1 @@
+# Taller guiado: creación de una cartera de productos mínima

@@ -1,0 +1,2 @@
+<?php
+// Taller guiado: pide un nombre y responde

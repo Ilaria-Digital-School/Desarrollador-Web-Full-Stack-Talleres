@@ -1,0 +1,2 @@
+<?php
+// Taller guiado: galería de imágenes responsiva con flex-wrap

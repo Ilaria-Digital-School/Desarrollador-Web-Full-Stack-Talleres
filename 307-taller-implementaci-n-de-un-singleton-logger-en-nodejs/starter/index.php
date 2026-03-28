@@ -1,0 +1,2 @@
+<?php
+// Taller: implementación de un Singleton Logger en NodeJS

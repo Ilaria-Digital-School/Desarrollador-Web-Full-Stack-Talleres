@@ -1,0 +1,2 @@
+<?php
+// Activar la autenticación y crear una aplicación de usuario

@@ -1,0 +1,2 @@
+<?php
+// Observación guiada: inspección de un sitio que no responde

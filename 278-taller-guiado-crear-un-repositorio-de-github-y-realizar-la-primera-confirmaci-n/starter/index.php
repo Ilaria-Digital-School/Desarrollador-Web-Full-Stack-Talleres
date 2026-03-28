@@ -1,0 +1,2 @@
+<?php
+// Taller guiado: crear un repositorio de GitHub y realizar la primera confirmación

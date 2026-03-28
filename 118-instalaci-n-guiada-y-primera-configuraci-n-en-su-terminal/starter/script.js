@@ -1,0 +1,1 @@
+// Instalación guiada y primera configuración en su terminal

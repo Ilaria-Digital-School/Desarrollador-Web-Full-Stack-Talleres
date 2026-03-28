@@ -1,0 +1,2 @@
+<?php
+// Taller guiado: agregar un paso de creación de imágenes de Docker al flujo de trabajo

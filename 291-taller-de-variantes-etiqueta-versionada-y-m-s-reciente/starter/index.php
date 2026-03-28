@@ -1,0 +1,2 @@
+<?php
+// Taller de variantes: etiqueta «versionada» y «más reciente»

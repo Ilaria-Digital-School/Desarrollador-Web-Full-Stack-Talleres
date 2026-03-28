@@ -1,0 +1,2 @@
+<?php
+// Taller: uso de npx para lanzar un servidor en vivo

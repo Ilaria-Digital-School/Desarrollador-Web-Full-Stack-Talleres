@@ -1,0 +1,2 @@
+<?php
+// Guía: deshacer una confirmación sin perder el trabajo

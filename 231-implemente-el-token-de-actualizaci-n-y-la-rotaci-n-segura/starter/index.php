@@ -1,0 +1,2 @@
+<?php
+// Implemente el token de actualización y la rotación segura

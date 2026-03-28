@@ -1,0 +1,2 @@
+<?php
+// Laboratorio: npm init y lectura del paquete.json

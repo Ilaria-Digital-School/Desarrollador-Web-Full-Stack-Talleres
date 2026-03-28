@@ -1,0 +1,2 @@
+<?php
+// Consultas filtradas guiadas

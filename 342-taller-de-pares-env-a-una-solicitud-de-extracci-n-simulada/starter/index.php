@@ -1,0 +1,2 @@
+<?php
+// Taller de pares: envía una solicitud de extracción simulada

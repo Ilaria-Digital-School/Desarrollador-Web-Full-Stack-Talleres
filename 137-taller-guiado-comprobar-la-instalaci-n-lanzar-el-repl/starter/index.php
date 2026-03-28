@@ -1,0 +1,2 @@
+<?php
+// Taller guiado: comprobar la instalación, lanzar el REPL

@@ -1,0 +1,2 @@
+<?php
+// Taller de depuración: seguimiento de los rechazos con DevTools

@@ -1,0 +1,2 @@
+<?php
+// Taller guiado: Manipulación de esquemas y tipos de datos básicos

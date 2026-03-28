@@ -1,0 +1,2 @@
+<?php
+// Taller: despliegue de la aplicación y verificación de la producción

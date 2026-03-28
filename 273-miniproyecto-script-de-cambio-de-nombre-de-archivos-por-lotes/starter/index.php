@@ -1,0 +1,2 @@
+<?php
+// Miniproyecto: script de cambio de nombre de archivos por lotes

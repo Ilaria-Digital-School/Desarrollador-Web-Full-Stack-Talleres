@@ -1,0 +1,2 @@
+<?php
+// Taller de variantes: probar una función de resta

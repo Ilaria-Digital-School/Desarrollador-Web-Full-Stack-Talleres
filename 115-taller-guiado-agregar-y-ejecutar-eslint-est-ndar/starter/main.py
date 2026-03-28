@@ -1,0 +1,1 @@
+# Taller guiado: agregar y ejecutar ESLint estándar

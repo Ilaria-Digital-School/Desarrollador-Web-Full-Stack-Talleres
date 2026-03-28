@@ -1,0 +1,2 @@
+<?php
+// Minidesafío: inicio y guiones para el contador de segundos

@@ -1,0 +1,2 @@
+<?php
+// Taller: construcción del modelo de un blog de una columna

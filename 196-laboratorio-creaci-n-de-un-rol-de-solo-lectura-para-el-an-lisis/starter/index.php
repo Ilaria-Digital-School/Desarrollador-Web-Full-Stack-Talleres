@@ -1,0 +1,2 @@
+<?php
+// Laboratorio: Creación de un rol de solo lectura para el análisis

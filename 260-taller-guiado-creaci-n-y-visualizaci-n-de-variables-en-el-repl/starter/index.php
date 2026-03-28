@@ -1,0 +1,2 @@
+<?php
+// Taller guiado: creación y visualización de variables en el REPL

@@ -1,0 +1,1 @@
+// Guiado: escenario de fusión simple

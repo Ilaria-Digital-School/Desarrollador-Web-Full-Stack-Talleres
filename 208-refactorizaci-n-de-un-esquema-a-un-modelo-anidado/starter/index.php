@@ -1,0 +1,2 @@
+<?php
+// Refactorización de un esquema a un modelo anidado

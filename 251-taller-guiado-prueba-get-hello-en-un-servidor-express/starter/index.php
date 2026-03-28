@@ -1,0 +1,2 @@
+<?php
+// Taller guiado: prueba GET /hello en un servidor Express

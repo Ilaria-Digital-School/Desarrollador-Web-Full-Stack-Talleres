@@ -1,0 +1,2 @@
+<?php
+// Guiado: crea y cambia entre sucursales

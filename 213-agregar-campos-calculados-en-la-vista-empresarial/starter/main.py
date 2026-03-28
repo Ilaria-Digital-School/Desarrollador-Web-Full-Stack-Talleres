@@ -1,0 +1,1 @@
+# Agregar campos calculados en la vista empresarial

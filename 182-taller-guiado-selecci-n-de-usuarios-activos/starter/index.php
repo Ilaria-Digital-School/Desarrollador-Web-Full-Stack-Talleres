@@ -1,0 +1,2 @@
+<?php
+// Taller guiado: Selección de usuarios activos

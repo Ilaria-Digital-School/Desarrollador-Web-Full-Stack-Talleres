@@ -1,0 +1,2 @@
+<?php
+// Taller guiado: realización de una retrospectiva de Start/Stop/Continue
