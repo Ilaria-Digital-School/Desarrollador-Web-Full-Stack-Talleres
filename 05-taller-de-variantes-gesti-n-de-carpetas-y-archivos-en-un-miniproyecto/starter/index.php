@@ -1,0 +1,2 @@
+<?php
+// Taller de variantes: gestión de carpetas y archivos en un miniproyecto
