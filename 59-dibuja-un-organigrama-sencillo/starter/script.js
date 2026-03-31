@@ -1,1 +1,0 @@
-// Dibuja un organigrama sencillo

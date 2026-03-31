@@ -1,1 +1,0 @@
-# Refactorización basada en factoriales

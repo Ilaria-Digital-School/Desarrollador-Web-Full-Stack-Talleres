@@ -1,2 +1,0 @@
-<?php
-// Taller guiado: maquetación del blog (barra lateral + contenido)

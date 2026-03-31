@@ -1,1 +1,0 @@
-// Variante - Tabla de multiplicar

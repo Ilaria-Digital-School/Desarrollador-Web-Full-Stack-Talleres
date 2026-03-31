@@ -1,2 +1,0 @@
-<?php
-// Miniproyecto guiado: creación de tu currículum semántico

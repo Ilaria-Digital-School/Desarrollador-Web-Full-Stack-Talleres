@@ -1,1 +1,0 @@
-# Taller de variantes: contador de clics (aviso)

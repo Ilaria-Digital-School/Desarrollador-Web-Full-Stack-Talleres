@@ -1,1 +1,0 @@
-// Taller guiado: declaración y visualización de variables

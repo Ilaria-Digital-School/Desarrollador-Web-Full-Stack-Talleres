@@ -1,1 +1,0 @@
-# Encuentra el mínimo en una lista

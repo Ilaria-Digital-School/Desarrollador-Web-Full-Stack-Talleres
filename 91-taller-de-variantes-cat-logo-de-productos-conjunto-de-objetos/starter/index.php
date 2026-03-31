@@ -1,2 +1,0 @@
-<?php
-// Taller de variantes: catálogo de productos (conjunto de objetos)

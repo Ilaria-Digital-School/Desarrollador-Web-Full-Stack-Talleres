@@ -1,1 +1,0 @@
-// Taller: insertar una foto de perfil con subtítulo

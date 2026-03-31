@@ -1,1 +1,0 @@
-# Checkpoint Ramp: gestión sencilla del carrito de compras

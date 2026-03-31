@@ -1,2 +1,0 @@
-<?php
-// Taller guiado: gestión de una lista de tareas en una consola

@@ -1,2 +1,0 @@
-<?php
-// Taller guiado: cuadrícula básica con 2 columnas y 3 filas
