@@ -10,3 +10,7 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 
 [Ver el taller completo](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/)
 
+## Talleres
+
+01. [Taller guiado: identificación de componentes (editor, terminal, navegador)](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/b7e07c2e-1735-42d3-9a14-adb849f0bb03/62c02292-d137-460a-8fd3-412d3837cffa/taller-guiado-identificacin-de-componentes-editor-terminal-navegador)
+
