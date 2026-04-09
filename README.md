@@ -11,3 +11,4 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 - [03. Taller: recorrido por la interfaz y atajos de teclado](03-taller-recorrido-por-la-interfaz-y-atajos-de-teclado/)
 - [04. Taller: comandos básicos (cd, ls, mkdir, touch)](04-taller-comandos-b-sicos-cd-ls-mkdir-touch/)
 - [05. Taller de : gestión de carpetas y archivos en un miniproyecto](05-taller-de-gesti-n-de-carpetas-y-archivos-en-un-miniproyecto/)
+- [06. Taller: inspección de una página HTML con DevTools](06-taller-inspecci-n-de-una-p-gina-html-con-devtools/)
