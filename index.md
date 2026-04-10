@@ -18,4 +18,5 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 04. [Taller: comandos básicos (cd, ls, mkdir, touch)](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/b7e07c2e-1735-42d3-9a14-adb849f0bb03/14a2b431-3bd9-4468-a565-c9e97e1a729d/taller-comandos-bsicos-cd-ls-mkdir-touch)
 05. [Taller de : gestión de carpetas y archivos en un miniproyecto](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/b7e07c2e-1735-42d3-9a14-adb849f0bb03/cc72df18-e53b-4bad-9a44-dd983c16ea44/taller-de-gestin-de-carpetas-y-archivos-en-un-miniproyecto)
 06. [Taller: inspección de una página HTML con DevTools](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/b7e07c2e-1735-42d3-9a14-adb849f0bb03/18b1446f-7250-4a60-bd4a-973ffb7793cb/taller-inspeccin-de-una-pgina-html-con-devtools)
+07. [Taller: crea index.html y observa los cambios en directo](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/b7e07c2e-1735-42d3-9a14-adb849f0bb03/a29a5386-a290-4d05-b7ee-b739afe91ea9/taller-crea-index-html-y-observa-los-cambios-en-directo)
 
