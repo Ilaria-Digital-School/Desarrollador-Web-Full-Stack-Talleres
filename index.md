@@ -19,4 +19,5 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 05. [Taller de : gestión de carpetas y archivos en un miniproyecto](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/b7e07c2e-1735-42d3-9a14-adb849f0bb03/cc72df18-e53b-4bad-9a44-dd983c16ea44/taller-de-gestin-de-carpetas-y-archivos-en-un-miniproyecto)
 06. [Taller: inspección de una página HTML con DevTools](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/b7e07c2e-1735-42d3-9a14-adb849f0bb03/18b1446f-7250-4a60-bd4a-973ffb7793cb/taller-inspeccin-de-una-pgina-html-con-devtools)
 07. [Taller: crea index.html y observa los cambios en directo](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/b7e07c2e-1735-42d3-9a14-adb849f0bb03/a29a5386-a290-4d05-b7ee-b739afe91ea9/taller-crea-index-html-y-observa-los-cambios-en-directo)
+08. [Taller: provocar y leer un error de HTML/CSS](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/b7e07c2e-1735-42d3-9a14-adb849f0bb03/e6eb3111-733c-4509-9711-1a955819e819/taller-provocar-y-leer-un-error-de-html-css)
 

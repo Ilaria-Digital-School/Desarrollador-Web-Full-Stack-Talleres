@@ -13,3 +13,4 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 - [05. Taller de : gestión de carpetas y archivos en un miniproyecto](05-taller-de-gesti-n-de-carpetas-y-archivos-en-un-miniproyecto/)
 - [06. Taller: inspección de una página HTML con DevTools](06-taller-inspecci-n-de-una-p-gina-html-con-devtools/)
 - [07. Taller: crea index.html y observa los cambios en directo](07-taller-crea-index-html-y-observa-los-cambios-en-directo/)
+- [08. Taller: provocar y leer un error de HTML/CSS](08-taller-provocar-y-leer-un-error-de-html-css/)
