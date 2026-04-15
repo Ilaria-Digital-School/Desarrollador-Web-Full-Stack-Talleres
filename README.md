@@ -14,3 +14,4 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 - [06. Taller: inspección de una página HTML con DevTools](06-taller-inspecci-n-de-una-p-gina-html-con-devtools/)
 - [07. Taller: crea index.html y observa los cambios en directo](07-taller-crea-index-html-y-observa-los-cambios-en-directo/)
 - [08. Taller: provocar y leer un error de HTML/CSS](08-taller-provocar-y-leer-un-error-de-html-css/)
+- [09. Taller: descifrando el problema de «pedir una pizza»](09-taller-descifrando-el-problema-de-pedir-una-pizza/)

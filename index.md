@@ -20,4 +20,5 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 06. [Taller: inspección de una página HTML con DevTools](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/b7e07c2e-1735-42d3-9a14-adb849f0bb03/18b1446f-7250-4a60-bd4a-973ffb7793cb/taller-inspeccin-de-una-pgina-html-con-devtools)
 07. [Taller: crea index.html y observa los cambios en directo](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/b7e07c2e-1735-42d3-9a14-adb849f0bb03/a29a5386-a290-4d05-b7ee-b739afe91ea9/taller-crea-index-html-y-observa-los-cambios-en-directo)
 08. [Taller: provocar y leer un error de HTML/CSS](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/b7e07c2e-1735-42d3-9a14-adb849f0bb03/e6eb3111-733c-4509-9711-1a955819e819/taller-provocar-y-leer-un-error-de-html-css)
+09. [Taller: descifrando el problema de «pedir una pizza»](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/b7e07c2e-1735-42d3-9a14-adb849f0bb03/137cd0b6-b711-4ef8-8449-a53edf33c660/taller-descifrando-el-problema-de-pedir-una-pizza)
 
