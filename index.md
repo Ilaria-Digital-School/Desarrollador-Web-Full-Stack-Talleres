@@ -37,4 +37,5 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 23. [Taller: construcción del modelo de un blog de una columna](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/27ff0726-3de4-4616-b0be-d9a166415d04/4fdebba8-1da9-4ac1-8406-36c8ac5c5c9c/taller-construccin-del-modelo-de-un-blog-de-una-columna)
 24. [Taller: aplicar correctamente los niveles de título](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/27ff0726-3de4-4616-b0be-d9a166415d04/e5cdeb2f-92a2-4340-ac0f-32c6e7725bba/taller-aplicar-correctamente-los-niveles-de-ttulo)
 25. [Taller: limpiar y comentar tu código](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/27ff0726-3de4-4616-b0be-d9a166415d04/0a4d5a9b-e693-4fcc-883b-1dfe0cff214e/taller-limpiar-y-comentar-tu-cdigo)
+26. [Miniproyecto : creación de tu currículum semántico](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/27ff0726-3de4-4616-b0be-d9a166415d04/bf846b56-94ba-430e-828b-ea81f9539587/miniproyecto-creacin-de-tu-currculum-semntico)
 

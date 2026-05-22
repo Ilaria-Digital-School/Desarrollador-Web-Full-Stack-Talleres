@@ -31,3 +31,4 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 - [23. Taller: construcción del modelo de un blog de una columna](23-taller-construcci-n-del-modelo-de-un-blog-de-una-columna/)
 - [24. Taller: aplicar correctamente los niveles de título](24-taller-aplicar-correctamente-los-niveles-de-t-tulo/)
 - [25. Taller: limpiar y comentar tu código](25-taller-limpiar-y-comentar-tu-c-digo/)
+- [26. Miniproyecto : creación de tu currículum semántico](26-miniproyecto-creaci-n-de-tu-curr-culum-sem-ntico/)
