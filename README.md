@@ -33,3 +33,4 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 - [25. Taller: limpiar y comentar tu código](25-taller-limpiar-y-comentar-tu-c-digo/)
 - [26. Miniproyecto : creación de tu currículum semántico](26-miniproyecto-creaci-n-de-tu-curr-culum-sem-ntico/)
 - [27. Taller: agregue la lista de habilidades en el currículum](27-taller-agregue-la-lista-de-habilidades-en-el-curr-culum/)
+- [28. Taller de : listas anidadas](28-taller-de-listas-anidadas/)

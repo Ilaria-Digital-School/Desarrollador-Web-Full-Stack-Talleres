@@ -39,4 +39,5 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 25. [Taller: limpiar y comentar tu código](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/27ff0726-3de4-4616-b0be-d9a166415d04/0a4d5a9b-e693-4fcc-883b-1dfe0cff214e/taller-limpiar-y-comentar-tu-cdigo)
 26. [Miniproyecto : creación de tu currículum semántico](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/27ff0726-3de4-4616-b0be-d9a166415d04/bf846b56-94ba-430e-828b-ea81f9539587/miniproyecto-creacin-de-tu-currculum-semntico)
 27. [Taller: agregue la lista de habilidades en el currículum](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/27ff0726-3de4-4616-b0be-d9a166415d04/ad0a181a-5ae6-4455-9f7e-9b0a5fd7b726/taller-agregue-la-lista-de-habilidades-en-el-currculum)
+28. [Taller de : listas anidadas](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/27ff0726-3de4-4616-b0be-d9a166415d04/1f95774b-c9b7-4dde-a7ab-7cb84577e647/taller-de-listas-anidadas)
 
