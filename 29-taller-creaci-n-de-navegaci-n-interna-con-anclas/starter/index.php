@@ -1,0 +1,2 @@
+<?php
+// Taller: creación de navegación interna con anclas
