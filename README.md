@@ -35,3 +35,4 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 - [27. Taller: agregue la lista de habilidades en el currículum](27-taller-agregue-la-lista-de-habilidades-en-el-curr-culum/)
 - [28. Taller de : listas anidadas](28-taller-de-listas-anidadas/)
 - [29. Taller: creación de navegación interna con anclas](29-taller-creaci-n-de-navegaci-n-interna-con-anclas/)
+- [30. Taller: lista de recursos externos (objetivo y rel)](30-taller-lista-de-recursos-externos-objetivo-y-rel/)
