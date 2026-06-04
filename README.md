@@ -37,3 +37,4 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 - [29. Taller: creación de navegación interna con anclas](29-taller-creaci-n-de-navegaci-n-interna-con-anclas/)
 - [30. Taller: lista de recursos externos (objetivo y rel)](30-taller-lista-de-recursos-externos-objetivo-y-rel/)
 - [31. Taller: insertar una foto de perfil con subtítulo](31-taller-insertar-una-foto-de-perfil-con-subt-tulo/)
+- [32. Taller: creación de una galería de imágenes semánticas](32-taller-creaci-n-de-una-galer-a-de-im-genes-sem-nticas/)

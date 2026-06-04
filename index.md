@@ -43,4 +43,5 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 29. [Taller: creación de navegación interna con anclas](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/27ff0726-3de4-4616-b0be-d9a166415d04/7bcd8b98-22da-4bf0-892c-53debc0a2ed0/taller-creacion-de-navegacion-interna-con-anclas)
 30. [Taller: lista de recursos externos (objetivo y rel)](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/27ff0726-3de4-4616-b0be-d9a166415d04/20412962-0634-4e8c-b271-a09ba5445f30/taller-lista-de-recursos-externos-objetivo-y-rel)
 31. [Taller: insertar una foto de perfil con subtítulo](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/27ff0726-3de4-4616-b0be-d9a166415d04/ff7181a5-ccc5-4244-b810-5e8d93634e4a/taller-insertar-una-foto-de-perfil-con-subtitulo)
+32. [Taller: creación de una galería de imágenes semánticas](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/27ff0726-3de4-4616-b0be-d9a166415d04/89a67729-7fda-4516-8450-a768fa65177a/taller-creacion-de-una-galeria-de-imagenes-semanticas)
 
