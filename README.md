@@ -40,3 +40,4 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 - [32. Taller: creación de una galería de imágenes semánticas](32-taller-creaci-n-de-una-galer-a-de-im-genes-sem-nticas/)
 - [33. Taller: enriquece la entrada del blog con etiquetas en línea](33-taller-enriquece-la-entrada-del-blog-con-etiquetas-en-l-nea/)
 - [34. Taller de : usa el tiempo, el código y el abbr correctamente](34-taller-de-usa-el-tiempo-el-c-digo-y-el-abbr-correctamente/)
+- [35. Taller: creación de un horario semanal](35-taller-creaci-n-de-un-horario-semanal/)
