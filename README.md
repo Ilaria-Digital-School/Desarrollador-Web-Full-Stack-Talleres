@@ -42,3 +42,4 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 - [34. Taller de : usa el tiempo, el código y el abbr correctamente](34-taller-de-usa-el-tiempo-el-c-digo-y-el-abbr-correctamente/)
 - [35. Taller: creación de un horario semanal](35-taller-creaci-n-de-un-horario-semanal/)
 - [36. Taller: hacer que una tabla sea accesible (alcance, resumen)](36-taller-hacer-que-una-tabla-sea-accesible-alcance-resumen/)
+- [37. Miniproyecto final: portafolio de varias páginas completamente semántico](37-miniproyecto-final-portafolio-de-varias-p-ginas-completamente-sem-ntico/)

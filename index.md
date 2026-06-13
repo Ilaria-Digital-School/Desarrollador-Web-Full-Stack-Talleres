@@ -48,4 +48,5 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 34. [Taller de : usa el tiempo, el código y el abbr correctamente](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/27ff0726-3de4-4616-b0be-d9a166415d04/98850571-ba5b-4006-aa92-e08c97e6d85c/taller-de-usa-el-tiempo-el-codigo-y-el-abbr-correctamente)
 35. [Taller: creación de un horario semanal](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/27ff0726-3de4-4616-b0be-d9a166415d04/d9ab3773-245d-4075-a792-54e5dfe04d5d/taller-creacion-de-un-horario-semanal)
 36. [Taller: hacer que una tabla sea accesible (alcance, resumen)](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/27ff0726-3de4-4616-b0be-d9a166415d04/2f52619d-d395-4d47-bcbc-38bba76a14a6/taller-hacer-que-una-tabla-sea-accesible-alcance-resumen)
+37. [Miniproyecto final: portafolio de varias páginas completamente semántico](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/27ff0726-3de4-4616-b0be-d9a166415d04/d9ee0810-f9b9-48b4-9c5e-2fd60e685c20/miniproyecto-final-portafolio-de-varias-paginas-completamente-semantico)
 
