@@ -49,4 +49,5 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 35. [Taller: creación de un horario semanal](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/27ff0726-3de4-4616-b0be-d9a166415d04/d9ab3773-245d-4075-a792-54e5dfe04d5d/taller-creacion-de-un-horario-semanal)
 36. [Taller: hacer que una tabla sea accesible (alcance, resumen)](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/27ff0726-3de4-4616-b0be-d9a166415d04/2f52619d-d395-4d47-bcbc-38bba76a14a6/taller-hacer-que-una-tabla-sea-accesible-alcance-resumen)
 37. [Miniproyecto final: portafolio de varias páginas completamente semántico](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/27ff0726-3de4-4616-b0be-d9a166415d04/d9ee0810-f9b9-48b4-9c5e-2fd60e685c20/miniproyecto-final-portafolio-de-varias-paginas-completamente-semantico)
+38. [Observación : inspección de un sitio que no responde](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/09735346-1585-4cf1-b065-70cc1cc35356/observacion-inspeccion-de-un-sitio-que-no-responde)
 
