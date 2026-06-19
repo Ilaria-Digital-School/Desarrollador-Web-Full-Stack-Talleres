@@ -44,3 +44,4 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 - [36. Taller: hacer que una tabla sea accesible (alcance, resumen)](36-taller-hacer-que-una-tabla-sea-accesible-alcance-resumen/)
 - [37. Miniproyecto final: portafolio de varias páginas completamente semántico](37-miniproyecto-final-portafolio-de-varias-p-ginas-completamente-sem-ntico/)
 - [38. Observación : inspección de un sitio que no responde](38-observaci-n-inspecci-n-de-un-sitio-que-no-responde/)
+- [39. Taller: primera consulta de medios para cambiar el color de fondo](39-taller-primera-consulta-de-medios-para-cambiar-el-color-de-fondo/)
