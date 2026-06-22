@@ -6,9 +6,9 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 
 ## Talleres
 
-- [01. Taller: identificación de componentes (editor, terminal, navegador)](01-taller-identificaci-n-de-componentes-editor-terminal-navegador/)
+- [01. Taller guiado: identificación de componentes (editor, terminal, navegador)](01-taller-guiado-identificaci-n-de-componentes-editor-terminal-navegador/)
 - [02. Taller: instalación y primera apertura de VS Code](02-taller-instalaci-n-y-primera-apertura-de-vs-code/)
-- [03. Taller: recorrido por la interfaz y atajos de teclado](03-taller-recorrido-por-la-interfaz-y-atajos-de-teclado/)
+- [03. Taller: recorrido guiado por la interfaz y atajos de teclado](03-taller-recorrido-guiado-por-la-interfaz-y-atajos-de-teclado/)
 - [04. Taller: comandos básicos (cd, ls, mkdir, touch)](04-taller-comandos-b-sicos-cd-ls-mkdir-touch/)
 - [05. Taller de : gestión de carpetas y archivos en un miniproyecto](05-taller-de-gesti-n-de-carpetas-y-archivos-en-un-miniproyecto/)
 - [06. Taller: inspección de una página HTML con DevTools](06-taller-inspecci-n-de-una-p-gina-html-con-devtools/)
