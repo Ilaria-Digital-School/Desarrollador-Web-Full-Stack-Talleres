@@ -45,3 +45,4 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 - [37. Miniproyecto final: portafolio de varias páginas completamente semántico](37-miniproyecto-final-portafolio-de-varias-p-ginas-completamente-sem-ntico/)
 - [38. Observación : inspección de un sitio que no responde](38-observaci-n-inspecci-n-de-un-sitio-que-no-responde/)
 - [39. Taller: primera consulta de medios para cambiar el color de fondo](39-taller-primera-consulta-de-medios-para-cambiar-el-color-de-fondo/)
+- [40. Taller de : adapta el tamaño de la fuente según el ancho de la pantalla](40-taller-de-adapta-el-tama-o-de-la-fuente-seg-n-el-ancho-de-la-pantalla/)
