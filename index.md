@@ -53,4 +53,5 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 39. [Taller: primera consulta de medios para cambiar el color de fondo](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/db219be5-9917-48f1-b8a3-5354a7619a10/taller-primera-consulta-de-medios-para-cambiar-el-color-de-fondo)
 40. [Taller de : adapta el tamaño de la fuente según el ancho de la pantalla](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/a6ad10ae-db27-4146-b65f-a664d850fe05/taller-de-adapta-el-tamano-de-la-fuente-segun-el-ancho-de-la-pantalla)
 41. [Taller: convertir un diseño en rem y vw](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/ff2e3346-b9f1-4765-a54d-074dd8306822/taller-convertir-un-diseno-en-rem-y-vw)
+42. [Taller: alineación básica con Flexbox](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/e202efc8-4c48-46ab-9f1c-d979ee7e6d42/taller-alineacion-basica-con-flexbox)
 
