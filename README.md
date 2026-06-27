@@ -48,3 +48,5 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 - [40. Taller de : adapta el tamaño de la fuente según el ancho de la pantalla](40-taller-de-adapta-el-tama-o-de-la-fuente-seg-n-el-ancho-de-la-pantalla/)
 - [41. Taller: convertir un diseño en rem y vw](41-taller-convertir-un-dise-o-en-rem-y-vw/)
 - [42. Taller: alineación básica con Flexbox](42-taller-alineaci-n-b-sica-con-flexbox/)
+- [43. Taller: creación de una barra de navegación flexible](43-taller-creaci-n-de-una-barra-de-navegaci-n-flexible/)
+- [44. Taller de : inversión del orden de los elementos con dirección flexible](44-taller-de-inversi-n-del-orden-de-los-elementos-con-direcci-n-flexible/)
