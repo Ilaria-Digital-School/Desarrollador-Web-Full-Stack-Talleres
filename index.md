@@ -56,4 +56,5 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 42. [Taller: alineación básica con Flexbox](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/e202efc8-4c48-46ab-9f1c-d979ee7e6d42/taller-alineacion-basica-con-flexbox)
 43. [Taller: creación de una barra de navegación flexible](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/6f0e845b-be8d-4756-8179-5c7295e86e10/taller-creacion-de-una-barra-de-navegacion-flexible)
 44. [Taller de : inversión del orden de los elementos con dirección flexible](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/8b96e152-afb4-4276-aeb4-dda347635016/taller-de-inversion-del-orden-de-los-elementos-con-direccion-flexible)
+45. [Taller: galería de imágenes responsiva con flex-wrap](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/2f3a1d97-1b09-4b57-a18a-33c253c330e8/taller-galeria-de-imagenes-responsiva-con-flex-wrap)
 
