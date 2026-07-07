@@ -58,4 +58,5 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 44. [Taller de : inversión del orden de los elementos con dirección flexible](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/8b96e152-afb4-4276-aeb4-dda347635016/taller-de-inversion-del-orden-de-los-elementos-con-direccion-flexible)
 45. [Taller: galería de imágenes responsiva con flex-wrap](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/2f3a1d97-1b09-4b57-a18a-33c253c330e8/taller-galeria-de-imagenes-responsiva-con-flex-wrap)
 46. [Taller: sección adaptativa «Acerca de»](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/cb577b24-e24e-4d0a-b975-a47fdbabd9d4/taller-seccion-adaptativa-acerca-de)
+47. [Taller: cuadrícula básica con 2 columnas y 3 filas](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/657fe1c7-bc86-47b3-a7bf-43a92ac86ad9/taller-cuadricula-basica-con-2-columnas-y-3-filas)
 

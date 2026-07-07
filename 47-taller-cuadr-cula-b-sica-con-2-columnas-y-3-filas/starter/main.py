@@ -1,0 +1,1 @@
+# Taller: cuadrícula básica con 2 columnas y 3 filas

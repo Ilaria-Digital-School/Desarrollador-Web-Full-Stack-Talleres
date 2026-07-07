@@ -52,3 +52,4 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 - [44. Taller de : inversión del orden de los elementos con dirección flexible](44-taller-de-inversi-n-del-orden-de-los-elementos-con-direcci-n-flexible/)
 - [45. Taller: galería de imágenes responsiva con flex-wrap](45-taller-galer-a-de-im-genes-responsiva-con-flex-wrap/)
 - [46. Taller: sección adaptativa «Acerca de»](46-taller-secci-n-adaptativa-acerca-de/)
+- [47. Taller: cuadrícula básica con 2 columnas y 3 filas](47-taller-cuadr-cula-b-sica-con-2-columnas-y-3-filas/)
