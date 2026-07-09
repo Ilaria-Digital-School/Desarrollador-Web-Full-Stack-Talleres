@@ -53,3 +53,4 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 - [45. Taller: galería de imágenes responsiva con flex-wrap](45-taller-galer-a-de-im-genes-responsiva-con-flex-wrap/)
 - [46. Taller: sección adaptativa «Acerca de»](46-taller-secci-n-adaptativa-acerca-de/)
 - [47. Taller: cuadrícula básica con 2 columnas y 3 filas](47-taller-cuadr-cula-b-sica-con-2-columnas-y-3-filas/)
+- [48. Taller de : rejilla fluida con repetición (ajuste automático, minmax)](48-taller-de-rejilla-fluida-con-repetici-n-ajuste-autom-tico-minmax/)
