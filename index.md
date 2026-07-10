@@ -60,4 +60,5 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 46. [Taller: sección adaptativa «Acerca de»](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/cb577b24-e24e-4d0a-b975-a47fdbabd9d4/taller-seccion-adaptativa-acerca-de)
 47. [Taller: cuadrícula básica con 2 columnas y 3 filas](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/657fe1c7-bc86-47b3-a7bf-43a92ac86ad9/taller-cuadricula-basica-con-2-columnas-y-3-filas)
 48. [Taller de : rejilla fluida con repetición (ajuste automático, minmax)](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/748a095e-0ff9-4904-a740-b6ac4163c3bd/taller-de-rejilla-fluida-con-repeticion-ajuste-automatico-minmax)
+49. [Taller: maquetación del blog (barra lateral + contenido)](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/59f5ac5e-9824-4900-a9b7-ff057182f5b3/taller-maquetacion-del-blog-barra-lateral-contenido)
 
