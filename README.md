@@ -57,3 +57,4 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 - [49. Taller: maquetación del blog (barra lateral + contenido)](49-taller-maquetaci-n-del-blog-barra-lateral-contenido/)
 - [50. Taller: pase de 4 columnas a 1 columna según el tamaño de la pantalla](50-taller-pase-de-4-columnas-a-1-columna-seg-n-el-tama-o-de-la-pantalla/)
 - [51. Miniproyecto intermedio: página de inicio de portafolio responsiva](51-miniproyecto-intermedio-p-gina-de-inicio-de-portafolio-responsiva/)
+- [52. Taller: refactorizar una página existente primero desde dispositivos móviles](52-taller-refactorizar-una-p-gina-existente-primero-desde-dispositivos-m-viles/)
