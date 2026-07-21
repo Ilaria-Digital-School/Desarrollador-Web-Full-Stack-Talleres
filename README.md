@@ -59,3 +59,4 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 - [51. Miniproyecto intermedio: página de inicio de portafolio responsiva](51-miniproyecto-intermedio-p-gina-de-inicio-de-portafolio-responsiva/)
 - [52. Taller: refactorizar una página existente primero desde dispositivos móviles](52-taller-refactorizar-una-p-gina-existente-primero-desde-dispositivos-m-viles/)
 - [53. Taller: creación de un formulario responsivo y accesible](53-taller-creaci-n-de-un-formulario-responsivo-y-accesible/)
+- [54. Taller: implementación de un potente conjunto de imágenes adaptables](54-taller-implementaci-n-de-un-potente-conjunto-de-im-genes-adaptables/)
