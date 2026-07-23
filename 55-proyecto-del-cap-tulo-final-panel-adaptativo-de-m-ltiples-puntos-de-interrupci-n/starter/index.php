@@ -1,0 +1,2 @@
+<?php
+// Proyecto del capítulo final: panel adaptativo de múltiples puntos de interrupción

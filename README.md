@@ -60,3 +60,5 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 - [52. Taller: refactorizar una página existente primero desde dispositivos móviles](52-taller-refactorizar-una-p-gina-existente-primero-desde-dispositivos-m-viles/)
 - [53. Taller: creación de un formulario responsivo y accesible](53-taller-creaci-n-de-un-formulario-responsivo-y-accesible/)
 - [54. Taller: implementación de un potente conjunto de imágenes adaptables](54-taller-implementaci-n-de-un-potente-conjunto-de-im-genes-adaptables/)
+- [55. Proyecto del capítulo final: panel adaptativo de múltiples puntos de interrupción](55-proyecto-del-cap-tulo-final-panel-adaptativo-de-m-ltiples-puntos-de-interrupci-n/)
+- [56. Informe colaborativo: revisión de código responsiva](56-informe-colaborativo-revisi-n-de-c-digo-responsiva/)
