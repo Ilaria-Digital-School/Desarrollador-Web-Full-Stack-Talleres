@@ -62,3 +62,4 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 - [54. Taller: implementación de un potente conjunto de imágenes adaptables](54-taller-implementaci-n-de-un-potente-conjunto-de-im-genes-adaptables/)
 - [55. Proyecto del capítulo final: panel adaptativo de múltiples puntos de interrupción](55-proyecto-del-cap-tulo-final-panel-adaptativo-de-m-ltiples-puntos-de-interrupci-n/)
 - [56. Informe colaborativo: revisión de código responsiva](56-informe-colaborativo-revisi-n-de-c-digo-responsiva/)
+- [57. Transforma una receta de cocina en un pseudocódigo](57-transforma-una-receta-de-cocina-en-un-pseudoc-digo/)

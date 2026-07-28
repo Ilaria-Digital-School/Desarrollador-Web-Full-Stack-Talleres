@@ -1,0 +1,2 @@
+<?php
+// Transforma una receta de cocina en un pseudocódigo
