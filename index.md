@@ -71,4 +71,5 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 57. [Transforma una receta de cocina en un pseudocódigo](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/a83c67c7-88c8-45e4-afa1-a27abbc69b14/fad384cb-d236-4ba8-a049-66c49a1c8846/transforma-una-receta-de-cocina-en-un-pseudocodigo)
 58. [Pseudocódigo para un viaje diario](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/a83c67c7-88c8-45e4-afa1-a27abbc69b14/4f288c3f-a273-4907-940e-09e96dd4c6f2/pseudocodigo-para-un-viaje-diario)
 59. [Dibuja un organigrama sencillo](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/a83c67c7-88c8-45e4-afa1-a27abbc69b14/41441869-8bd0-41cc-87eb-5d572d011bb0/dibuja-un-organigrama-sencillo)
+60. [Reescribe un algoritmo desordenado](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/a83c67c7-88c8-45e4-afa1-a27abbc69b14/b4c4eb85-30af-4f08-b6a5-51b71b79e353/reescribe-un-algoritmo-desordenado)
 

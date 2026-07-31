@@ -65,3 +65,4 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 - [57. Transforma una receta de cocina en un pseudocódigo](57-transforma-una-receta-de-cocina-en-un-pseudoc-digo/)
 - [58. Pseudocódigo para un viaje diario](58-pseudoc-digo-para-un-viaje-diario/)
 - [59. Dibuja un organigrama sencillo](59-dibuja-un-organigrama-sencillo/)
+- [60. Reescribe un algoritmo desordenado](60-reescribe-un-algoritmo-desordenado/)
