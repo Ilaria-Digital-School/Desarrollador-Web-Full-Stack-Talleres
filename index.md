@@ -74,4 +74,5 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 60. [Reescribe un algoritmo desordenado](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/a83c67c7-88c8-45e4-afa1-a27abbc69b14/b4c4eb85-30af-4f08-b6a5-51b71b79e353/reescribe-un-algoritmo-desordenado)
 61. [Mini-checkpoint - Prepara un café](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/a83c67c7-88c8-45e4-afa1-a27abbc69b14/26aca322-11af-4cf9-b072-ac24cf605f18/mini-checkpoint-prepara-un-cafe)
 62. [Declarar y asignar variables](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/a83c67c7-88c8-45e4-afa1-a27abbc69b14/60f17f64-30b3-4fa0-95ad-bf5330a0a6ab/declarar-y-asignar-variables)
+63. [Intercambie dos valores](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/a83c67c7-88c8-45e4-afa1-a27abbc69b14/33abcd38-d254-4668-b542-9bcf70210045/intercambie-dos-valores)
 
