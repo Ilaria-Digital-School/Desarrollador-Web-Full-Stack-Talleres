@@ -69,3 +69,4 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 - [61. Mini-checkpoint - Prepara un café](61-mini-checkpoint-prepara-un-caf/)
 - [62. Declarar y asignar variables](62-declarar-y-asignar-variables/)
 - [63. Intercambie dos valores](63-intercambie-dos-valores/)
+- [64. Cálculos sencillos con variables](64-c-lculos-sencillos-con-variables/)
