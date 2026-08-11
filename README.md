@@ -70,3 +70,4 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 - [62. Declarar y asignar variables](62-declarar-y-asignar-variables/)
 - [63. Intercambie dos valores](63-intercambie-dos-valores/)
 - [64. Cálculos sencillos con variables](64-c-lculos-sencillos-con-variables/)
+- [65. Miniproyecto : cálculo del IMC](65-miniproyecto-c-lculo-del-imc/)
