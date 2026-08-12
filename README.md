@@ -71,3 +71,4 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 - [63. Intercambie dos valores](63-intercambie-dos-valores/)
 - [64. Cálculos sencillos con variables](64-c-lculos-sencillos-con-variables/)
 - [65. Miniproyecto : cálculo del IMC](65-miniproyecto-c-lculo-del-imc/)
+- [66. Checkpoint Ramp: gestión sencilla del carrito de compras](66-checkpoint-ramp-gesti-n-sencilla-del-carrito-de-compras/)

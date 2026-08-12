@@ -77,4 +77,5 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 63. [Intercambie dos valores](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/a83c67c7-88c8-45e4-afa1-a27abbc69b14/33abcd38-d254-4668-b542-9bcf70210045/intercambie-dos-valores)
 64. [Cálculos sencillos con variables](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/a83c67c7-88c8-45e4-afa1-a27abbc69b14/ae26dcfb-ef66-4726-86f5-90ea30ef5b39/calculos-sencillos-con-variables)
 65. [Miniproyecto : cálculo del IMC](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/a83c67c7-88c8-45e4-afa1-a27abbc69b14/f4820f10-5457-4d7a-8f77-8354325c6f19/miniproyecto-calculo-del-imc)
+66. [Checkpoint Ramp: gestión sencilla del carrito de compras](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/a83c67c7-88c8-45e4-afa1-a27abbc69b14/64be89fa-f7f8-4824-b02d-7385bc723267/checkpoint-ramp-gestion-sencilla-del-carrito-de-compras)
 
