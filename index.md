@@ -80,4 +80,5 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 66. [Checkpoint Ramp: gestión sencilla del carrito de compras](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/a83c67c7-88c8-45e4-afa1-a27abbc69b14/64be89fa-f7f8-4824-b02d-7385bc723267/checkpoint-ramp-gestion-sencilla-del-carrito-de-compras)
 67. [Escribir una prueba de IF simple](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/a83c67c7-88c8-45e4-afa1-a27abbc69b14/0fc71233-db73-440a-8d17-847e660caf1e/escribir-una-prueba-de-if-simple)
 68. [Opción de precio reducido](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/a83c67c7-88c8-45e4-afa1-a27abbc69b14/37136080-22d9-4df0-a660-7624491ee4a0/opcion-de-precio-reducido)
+69. [Miniproyecto: cálculo del precio de un billete de tren](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/a83c67c7-88c8-45e4-afa1-a27abbc69b14/ec675721-96d5-49e9-bf63-8d3815de4c0b/miniproyecto-calculo-del-precio-de-un-billete-de-tren)
 
