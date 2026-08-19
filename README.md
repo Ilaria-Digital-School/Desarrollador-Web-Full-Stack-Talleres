@@ -75,3 +75,4 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 - [67. Escribir una prueba de IF simple](67-escribir-una-prueba-de-if-simple/)
 - [68. Opción de precio reducido](68-opci-n-de-precio-reducido/)
 - [69. Miniproyecto: cálculo del precio de un billete de tren](69-miniproyecto-c-lculo-del-precio-de-un-billete-de-tren/)
+- [70. Mientras: cuente de 1 a N](70-mientras-cuente-de-1-a-n/)
