@@ -82,4 +82,5 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 68. [Opción de precio reducido](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/a83c67c7-88c8-45e4-afa1-a27abbc69b14/37136080-22d9-4df0-a660-7624491ee4a0/opcion-de-precio-reducido)
 69. [Miniproyecto: cálculo del precio de un billete de tren](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/a83c67c7-88c8-45e4-afa1-a27abbc69b14/ec675721-96d5-49e9-bf63-8d3815de4c0b/miniproyecto-calculo-del-precio-de-un-billete-de-tren)
 70. [Mientras: cuente de 1 a N](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/a83c67c7-88c8-45e4-afa1-a27abbc69b14/77c53658-ac24-4173-bb82-01838835eb5b/mientras-cuente-de-1-a-n)
+71. [Para: calcula un factorial](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/a83c67c7-88c8-45e4-afa1-a27abbc69b14/85c04acf-b4b6-4ae0-b021-a1bde966c550/para-calcula-un-factorial)
 
