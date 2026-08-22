@@ -77,3 +77,4 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 - [69. Miniproyecto: cálculo del precio de un billete de tren](69-miniproyecto-c-lculo-del-precio-de-un-billete-de-tren/)
 - [70. Mientras: cuente de 1 a N](70-mientras-cuente-de-1-a-n/)
 - [71. Para: calcula un factorial](71-para-calcula-un-factorial/)
+- [72. Tabla de multiplicar](72-tabla-de-multiplicar/)
