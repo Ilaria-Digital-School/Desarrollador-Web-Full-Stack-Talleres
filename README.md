@@ -79,3 +79,4 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 - [71. Para: calcula un factorial](71-para-calcula-un-factorial/)
 - [72. Tabla de multiplicar](72-tabla-de-multiplicar/)
 - [73. Crear una función de suma](73-crear-una-funci-n-de-suma/)
+- [74. Refactorización basada en factoriales](74-refactorizaci-n-basada-en-factoriales/)

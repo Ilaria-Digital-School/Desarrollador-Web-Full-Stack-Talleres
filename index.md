@@ -85,4 +85,5 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 71. [Para: calcula un factorial](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/a83c67c7-88c8-45e4-afa1-a27abbc69b14/85c04acf-b4b6-4ae0-b021-a1bde966c550/para-calcula-un-factorial)
 72. [Tabla de multiplicar](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/a83c67c7-88c8-45e4-afa1-a27abbc69b14/8183f9d1-bb0d-47db-938b-1c34c4c091db/tabla-de-multiplicar)
 73. [Crear una función de suma](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/a83c67c7-88c8-45e4-afa1-a27abbc69b14/1561336c-18a3-40fd-b745-4b0bb3852f8a/crear-una-funcion-de-suma)
+74. [Refactorización basada en factoriales](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/a83c67c7-88c8-45e4-afa1-a27abbc69b14/b9e08031-ab7a-4a81-b3e3-56875e3400c9/refactorizacion-basada-en-factoriales)
 
