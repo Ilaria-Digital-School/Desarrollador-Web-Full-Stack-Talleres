@@ -81,3 +81,4 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 - [73. Crear una función de suma](73-crear-una-funci-n-de-suma/)
 - [74. Refactorización basada en factoriales](74-refactorizaci-n-basada-en-factoriales/)
 - [75. Navegar por una lista y ver los artículos](75-navegar-por-una-lista-y-ver-los-art-culos/)
+- [76. Encuentra el mínimo en una lista](76-encuentra-el-m-nimo-en-una-lista/)
