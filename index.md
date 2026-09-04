@@ -89,4 +89,5 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 75. [Navegar por una lista y ver los artículos](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/a83c67c7-88c8-45e4-afa1-a27abbc69b14/322fe41a-8140-4a59-a32f-87a93a2caaf2/navegar-por-una-lista-y-ver-los-articulos)
 76. [Encuentra el mínimo en una lista](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/a83c67c7-88c8-45e4-afa1-a27abbc69b14/d2729b04-1729-49ba-bf0d-8e643754054f/encuentra-el-minimo-en-una-lista)
 77. [Caja registradora: resumen de conceptos](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/a83c67c7-88c8-45e4-afa1-a27abbc69b14/17631b59-d378-49cb-b46d-999ec9e919dd/caja-registradora-resumen-de-conceptos)
+78. [Taller: declaración y visualización de variables](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/4e74017c-2e13-4377-96f3-bd0e19698860/taller-declaracion-y-visualizacion-de-variables)
 
