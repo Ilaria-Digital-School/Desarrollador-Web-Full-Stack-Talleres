@@ -84,3 +84,4 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 - [76. Encuentra el mínimo en una lista](76-encuentra-el-m-nimo-en-una-lista/)
 - [77. Caja registradora: resumen de conceptos](77-caja-registradora-resumen-de-conceptos/)
 - [78. Taller: declaración y visualización de variables](78-taller-declaraci-n-y-visualizaci-n-de-variables/)
+- [79. Taller de : conversiones de tipos sencillas](79-taller-de-conversiones-de-tipos-sencillas/)
