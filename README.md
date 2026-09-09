@@ -86,3 +86,4 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 - [78. Taller: declaración y visualización de variables](78-taller-declaraci-n-y-visualizaci-n-de-variables/)
 - [79. Taller de : conversiones de tipos sencillas](79-taller-de-conversiones-de-tipos-sencillas/)
 - [80. Taller: minicalculadora en consola](80-taller-minicalculadora-en-consola/)
+- [81. Taller: mayoría legal — guion interactivo](81-taller-mayor-a-legal-guion-interactivo/)
