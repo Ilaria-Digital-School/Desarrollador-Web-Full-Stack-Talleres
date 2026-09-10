@@ -87,3 +87,4 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 - [79. Taller de : conversiones de tipos sencillas](79-taller-de-conversiones-de-tipos-sencillas/)
 - [80. Taller: minicalculadora en consola](80-taller-minicalculadora-en-consola/)
 - [81. Taller: mayoría legal — guion interactivo](81-taller-mayor-a-legal-guion-interactivo/)
+- [82. Taller de : ¿par o impar?](82-taller-de-par-o-impar/)
