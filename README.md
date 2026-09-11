@@ -88,3 +88,4 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 - [80. Taller: minicalculadora en consola](80-taller-minicalculadora-en-consola/)
 - [81. Taller: mayoría legal — guion interactivo](81-taller-mayor-a-legal-guion-interactivo/)
 - [82. Taller de : ¿par o impar?](82-taller-de-par-o-impar/)
+- [83. Taller: función de saludo personalizada](83-taller-funci-n-de-saludo-personalizada/)

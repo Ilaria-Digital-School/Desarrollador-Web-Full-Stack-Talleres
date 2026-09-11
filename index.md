@@ -94,4 +94,5 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 80. [Taller: minicalculadora en consola](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/cc80bfd0-a449-4022-81d0-6f77f396e978/taller-minicalculadora-en-consola)
 81. [Taller: mayoría legal — guion interactivo](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/2dd14a2b-8969-4d28-8c00-c02c7282b1e0/taller-mayoria-legal-guion-interactivo)
 82. [Taller de : ¿par o impar?](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/70a63e22-04f5-44c6-abae-5c624582733a/taller-de-par-o-impar)
+83. [Taller: función de saludo personalizada](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/e0eed685-f476-4d04-8190-e31f9f77aa71/taller-funcion-de-saludo-personalizada)
 
