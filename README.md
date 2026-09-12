@@ -89,3 +89,4 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 - [81. Taller: mayoría legal — guion interactivo](81-taller-mayor-a-legal-guion-interactivo/)
 - [82. Taller de : ¿par o impar?](82-taller-de-par-o-impar/)
 - [83. Taller: función de saludo personalizada](83-taller-funci-n-de-saludo-personalizada/)
+- [84. Taller: calculadora refactorizada con funciones](84-taller-calculadora-refactorizada-con-funciones/)
