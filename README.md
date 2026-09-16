@@ -90,3 +90,5 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 - [82. Taller de : ¿par o impar?](82-taller-de-par-o-impar/)
 - [83. Taller: función de saludo personalizada](83-taller-funci-n-de-saludo-personalizada/)
 - [84. Taller: calculadora refactorizada con funciones](84-taller-calculadora-refactorizada-con-funciones/)
+- [85. Taller de : contador de clics (aviso)](85-taller-de-contador-de-clics-aviso/)
+- [86. Taller: botón alert con controlador de eventos](86-taller-bot-n-alert-con-controlador-de-eventos/)

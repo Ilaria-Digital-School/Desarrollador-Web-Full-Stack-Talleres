@@ -96,4 +96,6 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 82. [Taller de : ¿par o impar?](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/70a63e22-04f5-44c6-abae-5c624582733a/taller-de-par-o-impar)
 83. [Taller: función de saludo personalizada](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/e0eed685-f476-4d04-8190-e31f9f77aa71/taller-funcion-de-saludo-personalizada)
 84. [Taller: calculadora refactorizada con funciones](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/ca9fea59-728e-4906-b89c-d27da6e84e96/taller-calculadora-refactorizada-con-funciones)
+85. [Taller de : contador de clics (aviso)](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/1d3dc039-98ac-4402-8841-fd3222f8b836/taller-de-contador-de-clics-aviso)
+86. [Taller: botón alert con controlador de eventos](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/982342dd-399c-40ed-8f1f-95225d63d12f/taller-boton-alert-con-controlador-de-eventos)
 
