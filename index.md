@@ -98,4 +98,6 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 84. [Taller: calculadora refactorizada con funciones](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/ca9fea59-728e-4906-b89c-d27da6e84e96/taller-calculadora-refactorizada-con-funciones)
 85. [Taller de : contador de clics (aviso)](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/1d3dc039-98ac-4402-8841-fd3222f8b836/taller-de-contador-de-clics-aviso)
 86. [Taller: botón alert con controlador de eventos](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/982342dd-399c-40ed-8f1f-95225d63d12f/taller-boton-alert-con-controlador-de-eventos)
+87. [Taller: gestión de una lista de tareas en una consola](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/da2c9f49-75d6-4d3f-9130-e822b59de657/taller-gestion-de-una-lista-de-tareas-en-una-consola)
+88. [Taller: estadísticas de calificaciones de los estudiantes](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/015fd53d-6123-4957-808d-4eec6ed587c9/taller-estadisticas-de-calificaciones-de-los-estudiantes)
 

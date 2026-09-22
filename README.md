@@ -92,3 +92,5 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 - [84. Taller: calculadora refactorizada con funciones](84-taller-calculadora-refactorizada-con-funciones/)
 - [85. Taller de : contador de clics (aviso)](85-taller-de-contador-de-clics-aviso/)
 - [86. Taller: botón alert con controlador de eventos](86-taller-bot-n-alert-con-controlador-de-eventos/)
+- [87. Taller: gestión de una lista de tareas en una consola](87-taller-gesti-n-de-una-lista-de-tareas-en-una-consola/)
+- [88. Taller: estadísticas de calificaciones de los estudiantes](88-taller-estad-sticas-de-calificaciones-de-los-estudiantes/)
