@@ -94,3 +94,4 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 - [86. Taller: botón alert con controlador de eventos](86-taller-bot-n-alert-con-controlador-de-eventos/)
 - [87. Taller: gestión de una lista de tareas en una consola](87-taller-gesti-n-de-una-lista-de-tareas-en-una-consola/)
 - [88. Taller: estadísticas de calificaciones de los estudiantes](88-taller-estad-sticas-de-calificaciones-de-los-estudiantes/)
+- [89. Taller: filtrado y transformación de una lista de productos](89-taller-filtrado-y-transformaci-n-de-una-lista-de-productos/)
