@@ -101,4 +101,6 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 87. [Taller: gestión de una lista de tareas en una consola](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/da2c9f49-75d6-4d3f-9130-e822b59de657/taller-gestion-de-una-lista-de-tareas-en-una-consola)
 88. [Taller: estadísticas de calificaciones de los estudiantes](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/015fd53d-6123-4957-808d-4eec6ed587c9/taller-estadisticas-de-calificaciones-de-los-estudiantes)
 89. [Taller: filtrado y transformación de una lista de productos](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/6487de24-d839-4de2-a037-84f01385e8a4/taller-filtrado-y-transformacion-de-una-lista-de-productos)
+90. [Taller: objeto de usuario y método de presentación](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/d000672a-63ae-4d52-9dd0-35c40e05a6ad/taller-objeto-de-usuario-y-metodo-de-presentacion)
+91. [Taller de : catálogo de productos (conjunto de objetos)](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/a6a39bc8-5520-4b1e-90d8-5d049426427f/taller-de-catalogo-de-productos-conjunto-de-objetos)
 

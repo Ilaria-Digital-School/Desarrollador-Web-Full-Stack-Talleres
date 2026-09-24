@@ -95,3 +95,5 @@ Conviértase en un desarrollador web completo y domine el desarrollo para crear,
 - [87. Taller: gestión de una lista de tareas en una consola](87-taller-gesti-n-de-una-lista-de-tareas-en-una-consola/)
 - [88. Taller: estadísticas de calificaciones de los estudiantes](88-taller-estad-sticas-de-calificaciones-de-los-estudiantes/)
 - [89. Taller: filtrado y transformación de una lista de productos](89-taller-filtrado-y-transformaci-n-de-una-lista-de-productos/)
+- [90. Taller: objeto de usuario y método de presentación](90-taller-objeto-de-usuario-y-m-todo-de-presentaci-n/)
+- [91. Taller de : catálogo de productos (conjunto de objetos)](91-taller-de-cat-logo-de-productos-conjunto-de-objetos/)
