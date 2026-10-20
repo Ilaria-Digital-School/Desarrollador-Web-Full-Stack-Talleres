@@ -1,1 +1,0 @@
-// Taller: insertar encabezados y párrafos

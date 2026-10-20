@@ -1,2 +1,0 @@
-<?php
-// Taller: estadísticas de calificaciones de los estudiantes

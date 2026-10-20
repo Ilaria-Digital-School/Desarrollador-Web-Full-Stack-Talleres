@@ -1,1 +1,0 @@
-# Opción de precio reducido

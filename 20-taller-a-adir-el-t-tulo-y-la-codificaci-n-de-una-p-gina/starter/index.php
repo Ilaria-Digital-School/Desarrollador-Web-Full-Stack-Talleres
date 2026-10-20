@@ -1,2 +1,0 @@
-<?php
-// Taller: añadir el título y la codificación de una página

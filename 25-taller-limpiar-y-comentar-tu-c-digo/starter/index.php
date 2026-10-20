@@ -1,2 +1,0 @@
-<?php
-// Taller: limpiar y comentar tu código

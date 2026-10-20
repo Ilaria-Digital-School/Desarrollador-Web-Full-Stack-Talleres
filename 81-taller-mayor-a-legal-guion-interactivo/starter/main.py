@@ -1,1 +1,0 @@
-# Taller: mayoría legal — guion interactivo

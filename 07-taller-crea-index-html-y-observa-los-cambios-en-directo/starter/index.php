@@ -1,2 +1,0 @@
-<?php
-// Taller: crea index.html y observa los cambios en directo

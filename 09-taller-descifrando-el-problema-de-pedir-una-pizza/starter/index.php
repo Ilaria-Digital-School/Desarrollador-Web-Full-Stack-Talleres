@@ -1,2 +1,0 @@
-<?php
-// Taller: descifrando el problema de «pedir una pizza»
