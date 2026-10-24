@@ -1,0 +1,2 @@
+<?php
+// Taller de : catálogo de productos (conjunto de objetos)

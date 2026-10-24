@@ -1,0 +1,2 @@
+<?php
+// Taller de : rejilla fluida con repetición (ajuste automático, minmax)

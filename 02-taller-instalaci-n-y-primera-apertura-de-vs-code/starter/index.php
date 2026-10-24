@@ -1,0 +1,2 @@
+<?php
+// Taller: instalación y primera apertura de VS Code

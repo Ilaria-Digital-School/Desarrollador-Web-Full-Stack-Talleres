@@ -1,0 +1,2 @@
+<?php
+// Taller: botón alert con controlador de eventos

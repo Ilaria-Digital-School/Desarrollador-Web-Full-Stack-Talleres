@@ -1,0 +1,5 @@
+# Refactorización basada en factoriales
+
+Recordatorio teórico: El factorial de un número entero positivo n, escrito n!, es el producto de todos los enteros desde 1 hasta n. Por ejemplo, 5! = 5 × 4 × 3 × 2 × 1 = 120. Por convención, 0! = 1. Existen dos modelos mentales principales para calcularlo: el enfoque iterativo (usando un bucle para acumular el producto) y el enfoque recursivo (una función que se llama a sí misma hasta alcanzar el caso base 0! = 1). El enfoque iterativo suele ser más eficiente en memoria; el recursivo es más elegante pero puede provocar un desbordamiento de pila con valores grandes. Refactorizar significa reescribir un código existente para mejorar su legibilidad, su rendimiento o su estructura, sin cambiar su comportamiento externo. Un mini-ejemplo iterativo en JavaScript: function factorial(n) { let resultado = 1; for (let i = 2; i
+
+[Ver el taller completo](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/es/a83c67c7-88c8-45e4-afa1-a27abbc69b14/b9e08031-ab7a-4a81-b3e3-56875e3400c9/refactorizacion-basada-en-factoriales)
