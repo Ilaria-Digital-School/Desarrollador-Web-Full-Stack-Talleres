@@ -1,0 +1,2 @@
+<?php
+// Configurar el editor: tema, tamaño de fuente, guardado automático
