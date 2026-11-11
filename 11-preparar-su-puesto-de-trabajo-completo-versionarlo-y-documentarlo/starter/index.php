@@ -1,0 +1,2 @@
+<?php
+// Preparar su puesto de trabajo completo, versionarlo y documentarlo
