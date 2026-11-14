@@ -1,0 +1,1 @@
+# Repartir las responsabilidades Scrum en un equipo de cuatro desarrolladores
