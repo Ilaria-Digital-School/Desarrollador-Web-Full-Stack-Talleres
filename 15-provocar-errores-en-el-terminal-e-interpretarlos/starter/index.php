@@ -1,0 +1,2 @@
+<?php
+// Provocar errores en el terminal e interpretarlos
